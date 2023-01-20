@@ -1,0 +1,139 @@
+{
+  "Info": {
+    "DeviceId": 71
+  },
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 2
+    },
+    "Preview": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    },
+    "PreviewTradChinese": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    },
+    "PreviewChinese": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    }
+  },
+  "TimeExtended": {
+    "TimeSeparateDigits": {
+      "Hours": {
+        "Tens": {
+          "X": 55,
+          "Y": 31,
+          "ImageIndex": 3,
+          "ImagesCount": 10
+        },
+        "Ones": {
+          "X": 120,
+          "Y": 31,
+          "ImageIndex": 3,
+          "ImagesCount": 10
+        }
+      },
+      "Minutes": {
+        "Tens": {
+          "X": 55,
+          "Y": 113,
+          "ImageIndex": 3,
+          "ImagesCount": 10
+        },
+        "Ones": {
+          "X": 120,
+          "Y": 113,
+          "ImageIndex": 3,
+          "ImagesCount": 10
+        }
+      },
+      "PaddingZeroHours": false,
+      "PaddingZeroMinutes": true
+    }
+  },
+  "Activity": {
+    "HeartRate": {
+      "ImageNumber": {
+        "TopLeftX": 100,
+        "TopLeftY": 211,
+        "BottomRightX": 118,
+        "BottomRightY": 224,
+        "Alignment": "TopLeft",
+        "Spacing": 1,
+        "VerticalOffset": 0,
+        "ImageIndex": 13,
+        "ImagesCount": 10
+      },
+      "PrefixImageIndex": 65,
+      "NoDataImageIndex": 66
+    },
+    "UnknownLongValue7": 0
+  },
+  "DateBlock": {
+    "Date": {
+      "YearMonthAndDay": {
+        "Day": {
+          "TopLeftX": 152,
+          "TopLeftY": 232,
+          "BottomRightX": 170,
+          "BottomRightY": 245,
+          "Alignment": "TopLeft",
+          "Spacing": 0,
+          "VerticalOffset": 0,
+          "ImageIndex": 13,
+          "ImagesCount": 10
+        },
+        "MonthFollowsYear": false,
+        "DayFollowsMonth": false,
+        "MonthAsWord": {
+          "X": 113,
+          "Y": 231,
+          "ImageIndex": 23,
+          "ImagesCount": 12
+        },
+        "MonthAsWordChinese": {
+          "X": 113,
+          "Y": 231,
+          "ImageIndex": 35,
+          "ImagesCount": 12
+        }
+      },
+      "PaddingZeroMonth": true,
+      "PaddingZeroDay": true,
+      "UnknownBoolean6": false
+    },
+    "AmPm": {
+      "CommonX": 178,
+      "CommonY": 33,
+      "ImageIndexAMCN": 61,
+      "ImageIndexPMCN": 62,
+      "AmImageIndexEN": 63,
+      "PmImageIndexEN": 64
+    },
+    "Weekday": {
+      "X": 71,
+      "Y": 231,
+      "ImageIndex": 47,
+      "ImagesCount": 7
+    },
+    "WeekdayChinese": {
+      "X": 71,
+      "Y": 231,
+      "ImageIndex": 54,
+      "ImagesCount": 7
+    },
+    "WeekdayTradChinese": {
+      "X": 71,
+      "Y": 231,
+      "ImageIndex": 54,
+      "ImagesCount": 7
+    }
+  }
+}
