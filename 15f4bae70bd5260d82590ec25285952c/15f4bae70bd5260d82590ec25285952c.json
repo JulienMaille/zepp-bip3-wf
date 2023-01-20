@@ -1,0 +1,131 @@
+{
+  "Info": {
+    "DeviceId": 71
+  },
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 2
+    },
+    "Preview": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    },
+    "PreviewTradChinese": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    },
+    "PreviewChinese": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    }
+  },
+  "TimeExtended": {
+    "TimeSeparateDigits": {
+      "Hours": {
+        "Tens": {
+          "X": 26,
+          "Y": 170,
+          "ImageIndex": 3,
+          "ImagesCount": 10
+        },
+        "Ones": {
+          "X": 68,
+          "Y": 170,
+          "ImageIndex": 3,
+          "ImagesCount": 10
+        }
+      },
+      "Minutes": {
+        "Tens": {
+          "X": 130,
+          "Y": 170,
+          "ImageIndex": 3,
+          "ImagesCount": 10
+        },
+        "Ones": {
+          "X": 172,
+          "Y": 170,
+          "ImageIndex": 3,
+          "ImagesCount": 10
+        }
+      },
+      "SeparatorHours": {
+        "X": 112,
+        "Y": 170,
+        "ImageIndex": 13
+      },
+      "PaddingZeroHours": false,
+      "PaddingZeroMinutes": true
+    }
+  },
+  "Activity": {
+    "HeartRate": {
+      "ImageNumber": {
+        "TopLeftX": 160,
+        "TopLeftY": 234,
+        "BottomRightX": 224,
+        "BottomRightY": 264,
+        "Alignment": "Center",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 14,
+        "ImagesCount": 10
+      },
+      "PrefixImageIndex": 43,
+      "NoDataImageIndex": 44
+    },
+    "UnknownLongValue7": 0
+  },
+  "DateBlock": {
+    "Date": {
+      "OneLineMonthAndDay": {
+        "Number": {
+          "TopLeftX": 26,
+          "TopLeftY": 234,
+          "BottomRightX": 80,
+          "BottomRightY": 264,
+          "Alignment": "Center",
+          "Spacing": 0,
+          "VerticalOffset": 0,
+          "ImageIndex": 14,
+          "ImagesCount": 10
+        },
+        "DelimiterImageIndex": 24
+      },
+      "PaddingZeroMonth": true,
+      "PaddingZeroDay": true,
+      "UnknownBoolean6": false
+    },
+    "AmPm": {
+      "CommonX": 170,
+      "CommonY": 150,
+      "ImageIndexAMCN": 41,
+      "ImageIndexPMCN": 42,
+      "AmImageIndexEN": 39,
+      "PmImageIndexEN": 40
+    },
+    "Weekday": {
+      "X": 90,
+      "Y": 235,
+      "ImageIndex": 25,
+      "ImagesCount": 7
+    },
+    "WeekdayChinese": {
+      "X": 90,
+      "Y": 235,
+      "ImageIndex": 32,
+      "ImagesCount": 7
+    },
+    "WeekdayTradChinese": {
+      "X": 90,
+      "Y": 235,
+      "ImageIndex": 32,
+      "ImagesCount": 7
+    }
+  }
+}

@@ -1,0 +1,12 @@
+2023-01-20 23:17:46,378 - root - DEBUG - Opening watch face 'E:\Codez\zepp-bip3-wf\abaac4938332e65d8cd01e61d70a44c3.bin'
+2023-01-20 23:17:46,378 - root - DEBUG - Reading parameters...
+2023-01-20 23:17:46,378 - root - INFO - Reading header...
+2023-01-20 23:17:46,385 - root - ERROR - index out of range
+Traceback (most recent call last):
+  File "E:\Codez\py_amazfit_tools\program.py", line 101, in readWatchFace
+    reader.read()
+  File "E:\Codez\py_amazfit_tools\watchFaceParser\reader.py", line 18, in read
+    header = Header.readFrom(self._stream)
+  File "E:\Codez\py_amazfit_tools\watchFaceParser\models\header.py", line 122, in readFrom
+    bipMode = sig_buffer[0x0b] == 0xff
+IndexError: index out of range

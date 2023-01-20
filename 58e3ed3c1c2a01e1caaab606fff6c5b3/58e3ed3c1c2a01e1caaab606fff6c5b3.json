@@ -1,0 +1,100 @@
+{
+  "Info": {
+    "DeviceId": 71
+  },
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    },
+    "Preview": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    }
+  },
+  "TimeExtended": {
+    "TimeSeparateDigits": {
+      "Hours": {
+        "Tens": {
+          "X": 14,
+          "Y": 10,
+          "ImageIndex": 2,
+          "ImagesCount": 10
+        },
+        "Ones": {
+          "X": 89,
+          "Y": 10,
+          "ImageIndex": 2,
+          "ImagesCount": 10
+        }
+      },
+      "Minutes": {
+        "Tens": {
+          "X": 14,
+          "Y": 140,
+          "ImageIndex": 12,
+          "ImagesCount": 10
+        },
+        "Ones": {
+          "X": 89,
+          "Y": 140,
+          "ImageIndex": 12,
+          "ImagesCount": 10
+        }
+      },
+      "PaddingZeroHours": false,
+      "PaddingZeroMinutes": true
+    }
+  },
+  "DateBlock": {
+    "Date": {
+      "PaddingZeroMonth": true,
+      "PaddingZeroDay": true,
+      "UnknownBoolean6": false
+    }
+  },
+  "Weather": {
+    "Icon": {
+      "Images": {
+        "X": 183,
+        "Y": 123,
+        "ImageIndex": 22,
+        "ImagesCount": 26
+      }
+    }
+  },
+  "StepProgress": {
+    "ImageProgress": {
+      "X": 177,
+      "Y": 36,
+      "ImageIndex": 48,
+      "ImagesCount": 10
+    }
+  },
+  "Battery": {
+    "ImageProgress": {
+      "X": 177,
+      "Y": 192,
+      "ImageIndex": 68,
+      "ImagesCount": 10
+    }
+  },
+  "HeartProgress": {
+    "ImageProgress": {
+      "X": 177,
+      "Y": 36,
+      "ImageIndex": 58,
+      "ImagesCount": 10
+    }
+  },
+  "CaloriesProgress": {
+    "ImageProgress": {
+      "X": 177,
+      "Y": 36,
+      "ImageIndex": 78,
+      "ImagesCount": 10
+    }
+  }
+}

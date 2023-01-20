@@ -1,0 +1,212 @@
+{
+  "Info": {
+    "DeviceId": 71
+  },
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 2
+    },
+    "Preview": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    },
+    "PreviewTradChinese": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    },
+    "PreviewChinese": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    }
+  },
+  "Activity": {
+    "Steps": {
+      "ImageNumber": {
+        "TopLeftX": 106,
+        "TopLeftY": 169,
+        "BottomRightX": 136,
+        "BottomRightY": 179,
+        "Alignment": "Center",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 27,
+        "ImagesCount": 10
+      }
+    },
+    "Calories": {
+      "ImageNumber": {
+        "TopLeftX": 192,
+        "TopLeftY": 9,
+        "BottomRightX": 224,
+        "BottomRightY": 21,
+        "Alignment": "Center",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 37,
+        "ImagesCount": 10
+      }
+    },
+    "PAI": {
+      "ImageNumber": {
+        "TopLeftX": 196,
+        "TopLeftY": 257,
+        "BottomRightX": 220,
+        "BottomRightY": 269,
+        "Alignment": "Center",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 47,
+        "ImagesCount": 10
+      }
+    },
+    "UnknownLongValue7": 0
+  },
+  "DateBlock": {
+    "Date": {
+      "YearMonthAndDay": {
+        "Day": {
+          "TopLeftX": 110,
+          "TopLeftY": 67,
+          "BottomRightX": 130,
+          "BottomRightY": 83,
+          "Alignment": "Center",
+          "Spacing": 0,
+          "VerticalOffset": 0,
+          "ImageIndex": 3,
+          "ImagesCount": 10
+        },
+        "MonthFollowsYear": false,
+        "DayFollowsMonth": false
+      },
+      "PaddingZeroMonth": true,
+      "PaddingZeroDay": true,
+      "UnknownBoolean6": false
+    },
+    "Weekday": {
+      "X": 80,
+      "Y": 91,
+      "ImageIndex": 13,
+      "ImagesCount": 7
+    },
+    "WeekdayChinese": {
+      "X": 80,
+      "Y": 91,
+      "ImageIndex": 20,
+      "ImagesCount": 7
+    },
+    "WeekdayTradChinese": {
+      "X": 80,
+      "Y": 91,
+      "ImageIndex": 20,
+      "ImagesCount": 7
+    }
+  },
+  "Weather": {
+    "Icon": {
+      "Images": {
+        "X": 24,
+        "Y": 231,
+        "ImageIndex": 57,
+        "ImagesCount": 26
+      }
+    },
+    "Temperature": {
+      "Current": {
+        "ImageNumber": {
+          "TopLeftX": 21,
+          "TopLeftY": 257,
+          "BottomRightX": 53,
+          "BottomRightY": 269,
+          "Alignment": "Center",
+          "Spacing": 0,
+          "VerticalOffset": 0,
+          "ImageIndex": 83,
+          "ImagesCount": 10
+        },
+        "MinusImageIndex": 94,
+        "SuffixImageIndexC": 93,
+        "NoDataImageIndex": 95
+      }
+    }
+  },
+  "StepProgress": {
+    "Scale": {
+      "PointerScale": {
+        "CenterX": 120,
+        "CenterY": 187,
+        "RangeFrom": 0,
+        "RangeTo": 360,
+        "PointerImageIndex": 96,
+        "PointerCenterOfRotationY": 35
+      }
+    }
+  },
+  "Battery": {
+    "BatteryText": {
+      "ImageNumber": {
+        "TopLeftX": 26,
+        "TopLeftY": 9,
+        "BottomRightX": 50,
+        "BottomRightY": 21,
+        "Alignment": "Center",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 97,
+        "ImagesCount": 10
+      }
+    },
+    "ImageProgress": {
+      "X": 2,
+      "Y": 12,
+      "ImageIndex": 107,
+      "ImagesCount": 10
+    }
+  },
+  "CaloriesProgress": {
+    "ImageProgress": {
+      "X": 143,
+      "Y": 12,
+      "ImageIndex": 117,
+      "ImagesCount": 10
+    }
+  },
+  "TimeAnalog": {
+    "CommonCenterCoordinates": {
+      "X": 120,
+      "Y": 140
+    },
+    "Hours": {
+      "ImageIndex": 127,
+      "PointerCenterOfRotationY": 120
+    },
+    "Minutes": {
+      "ImageIndex": 129,
+      "PointerCenterOfRotationY": 120
+    },
+    "Seconds": {
+      "ImageIndex": 128,
+      "PointerCenterOfRotationY": 120
+    }
+  },
+  "PaiProgress": {
+    "ImageProgress": {
+      "X": 143,
+      "Y": 173,
+      "ImageIndex": 130,
+      "ImagesCount": 10
+    }
+  },
+  "UviProgress": {
+    "ImageProgress": {
+      "X": 2,
+      "Y": 173,
+      "ImageIndex": 140,
+      "ImagesCount": 10
+    }
+  }
+}

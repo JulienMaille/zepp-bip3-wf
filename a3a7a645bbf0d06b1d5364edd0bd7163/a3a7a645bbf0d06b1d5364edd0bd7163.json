@@ -1,0 +1,210 @@
+{
+  "Info": {
+    "DeviceId": 71
+  },
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 2
+    },
+    "Preview": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    },
+    "PreviewTradChinese": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    },
+    "PreviewChinese": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    }
+  },
+  "TimeExtended": {
+    "TimeSeparateDigits": {
+      "Hours": {
+        "Tens": {
+          "X": 127,
+          "Y": 127,
+          "ImageIndex": 3,
+          "ImagesCount": 10
+        },
+        "Ones": {
+          "X": 145,
+          "Y": 127,
+          "ImageIndex": 3,
+          "ImagesCount": 10
+        }
+      },
+      "Minutes": {
+        "Tens": {
+          "X": 173,
+          "Y": 127,
+          "ImageIndex": 3,
+          "ImagesCount": 10
+        },
+        "Ones": {
+          "X": 191,
+          "Y": 127,
+          "ImageIndex": 3,
+          "ImagesCount": 10
+        }
+      },
+      "SeparatorHours": {
+        "X": 163,
+        "Y": 127,
+        "ImageIndex": 13
+      },
+      "PaddingZeroHours": false,
+      "PaddingZeroMinutes": true
+    }
+  },
+  "Activity": {
+    "Calories": {
+      "ImageNumber": {
+        "TopLeftX": 81,
+        "TopLeftY": 71,
+        "BottomRightX": 121,
+        "BottomRightY": 85,
+        "Alignment": "Center",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 40,
+        "ImagesCount": 11
+      }
+    },
+    "HeartRate": {
+      "ImageNumber": {
+        "TopLeftX": 45,
+        "TopLeftY": 126,
+        "BottomRightX": 76,
+        "BottomRightY": 140,
+        "Alignment": "Center",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 51,
+        "ImagesCount": 11
+      },
+      "NoDataImageIndex": 62
+    },
+    "UnknownLongValue7": 0
+  },
+  "DateBlock": {
+    "Date": {
+      "OneLineMonthAndDay": {
+        "Number": {
+          "TopLeftX": 149,
+          "TopLeftY": 103,
+          "BottomRightX": 210,
+          "BottomRightY": 119,
+          "Alignment": "Center",
+          "Spacing": 0,
+          "VerticalOffset": 0,
+          "ImageIndex": 14,
+          "ImagesCount": 11
+        },
+        "DelimiterImageIndex": 25
+      },
+      "PaddingZeroMonth": true,
+      "PaddingZeroDay": true,
+      "UnknownBoolean6": false
+    },
+    "Weekday": {
+      "X": 146,
+      "Y": 162,
+      "ImageIndex": 26,
+      "ImagesCount": 7
+    },
+    "WeekdayChinese": {
+      "X": 146,
+      "Y": 162,
+      "ImageIndex": 33,
+      "ImagesCount": 7
+    },
+    "WeekdayTradChinese": {
+      "X": 146,
+      "Y": 162,
+      "ImageIndex": 33,
+      "ImagesCount": 7
+    }
+  },
+  "Weather": {
+    "Icon": {
+      "Images": {
+        "X": 24,
+        "Y": 15,
+        "ImageIndex": 63,
+        "ImagesCount": 26
+      }
+    }
+  },
+  "Status": {
+    "Alarm": {
+      "Coordinates": {
+        "X": 178,
+        "Y": 230
+      },
+      "ImageIndexOn": 89,
+      "ImageIndexOff": 90
+    }
+  },
+  "Battery": {
+    "BatteryText": {
+      "ImageNumber": {
+        "TopLeftX": 86,
+        "TopLeftY": 182,
+        "BottomRightX": 117,
+        "BottomRightY": 196,
+        "Alignment": "Center",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 101,
+        "ImagesCount": 11
+      }
+    },
+    "ImageProgress": {
+      "X": 75,
+      "Y": 166,
+      "ImageIndex": 112,
+      "ImagesCount": 10
+    }
+  },
+  "HeartProgress": {
+    "ImageProgress": {
+      "X": 34,
+      "Y": 110,
+      "ImageIndex": 91,
+      "ImagesCount": 10
+    }
+  },
+  "CaloriesProgress": {
+    "ImageProgress": {
+      "X": 74,
+      "Y": 54,
+      "ImageIndex": 122,
+      "ImagesCount": 10
+    }
+  },
+  "TimeAnalog": {
+    "CommonCenterCoordinates": {
+      "X": 120,
+      "Y": 140
+    },
+    "Hours": {
+      "ImageIndex": 132,
+      "PointerCenterOfRotationY": 120
+    },
+    "Minutes": {
+      "ImageIndex": 134,
+      "PointerCenterOfRotationY": 120
+    },
+    "Seconds": {
+      "ImageIndex": 133,
+      "PointerCenterOfRotationY": 120
+    }
+  }
+}

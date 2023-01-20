@@ -1,0 +1,63 @@
+{
+  "Info": {
+    "DeviceId": 71
+  },
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    },
+    "Preview": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    }
+  },
+  "DateBlock": {
+    "Date": {
+      "YearMonthAndDay": {
+        "Day": {
+          "TopLeftX": 106,
+          "TopLeftY": 70,
+          "BottomRightX": 134,
+          "BottomRightY": 90,
+          "Alignment": "TopLeft",
+          "Spacing": 0,
+          "VerticalOffset": 0,
+          "ImageIndex": 2,
+          "ImagesCount": 10
+        },
+        "MonthFollowsYear": false,
+        "DayFollowsMonth": false
+      },
+      "PaddingZeroMonth": true,
+      "PaddingZeroDay": true,
+      "UnknownBoolean6": false
+    },
+    "Weekday": {
+      "X": 90,
+      "Y": 180,
+      "ImageIndex": 12,
+      "ImagesCount": 7
+    }
+  },
+  "TimeAnalog": {
+    "CommonCenterCoordinates": {
+      "X": 120,
+      "Y": 140
+    },
+    "Hours": {
+      "ImageIndex": 19,
+      "PointerCenterOfRotationY": 120
+    },
+    "Minutes": {
+      "ImageIndex": 21,
+      "PointerCenterOfRotationY": 120
+    },
+    "Seconds": {
+      "ImageIndex": 20,
+      "PointerCenterOfRotationY": 120
+    }
+  }
+}

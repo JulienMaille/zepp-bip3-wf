@@ -1,0 +1,126 @@
+{
+  "Info": {
+    "DeviceId": 71
+  },
+  "Background": {
+    "BackgroundColor": "0x0000000000000000",
+    "Preview": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    }
+  },
+  "TimeExtended": {
+    "TimeSeparateDigits": {
+      "Hours": {
+        "Tens": {
+          "X": 13,
+          "Y": 57,
+          "ImageIndex": 1,
+          "ImagesCount": 10
+        },
+        "Ones": {
+          "X": 121,
+          "Y": 57,
+          "ImageIndex": 1,
+          "ImagesCount": 10
+        }
+      },
+      "Minutes": {
+        "Tens": {
+          "X": 13,
+          "Y": 352,
+          "ImageIndex": 1,
+          "ImagesCount": 10
+        },
+        "Ones": {
+          "X": 121,
+          "Y": 352,
+          "ImageIndex": 1,
+          "ImagesCount": 10
+        }
+      },
+      "PaddingZeroHours": false,
+      "PaddingZeroMinutes": true
+    }
+  },
+  "Activity": {
+    "Steps": {
+      "ImageNumber": {
+        "TopLeftX": 128,
+        "TopLeftY": 14,
+        "BottomRightX": 198,
+        "BottomRightY": 36,
+        "Alignment": "TopLeft",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 40,
+        "ImagesCount": 10
+      },
+      "Icon": {
+        "X": 42,
+        "Y": 14,
+        "ImageIndex": 50
+      }
+    },
+    "UnknownLongValue7": 0
+  },
+  "DateBlock": {
+    "Date": {
+      "YearMonthAndDay": {
+        "Day": {
+          "TopLeftX": 103,
+          "TopLeftY": 244,
+          "BottomRightX": 131,
+          "BottomRightY": 266,
+          "Alignment": "VCenter",
+          "Spacing": 0,
+          "VerticalOffset": 0,
+          "ImageIndex": 11,
+          "ImagesCount": 10
+        },
+        "MonthFollowsYear": false,
+        "DayFollowsMonth": false,
+        "MonthAsWord": {
+          "X": 43,
+          "Y": 244,
+          "ImageIndex": 21,
+          "ImagesCount": 12
+        },
+        "MonthAsWordChinese": {
+          "X": 43,
+          "Y": 244,
+          "ImageIndex": 21,
+          "ImagesCount": 12
+        }
+      },
+      "PaddingZeroMonth": true,
+      "PaddingZeroDay": true,
+      "UnknownBoolean6": false
+    },
+    "Weekday": {
+      "X": 137,
+      "Y": 244,
+      "ImageIndex": 33,
+      "ImagesCount": 7
+    }
+  },
+  "TimeAnalog": {
+    "CommonCenterCoordinates": {
+      "X": 120,
+      "Y": 140
+    },
+    "Hours": {
+      "ImageIndex": 51,
+      "PointerCenterOfRotationY": 120
+    },
+    "Minutes": {
+      "ImageIndex": 53,
+      "PointerCenterOfRotationY": 120
+    },
+    "Seconds": {
+      "ImageIndex": 52,
+      "PointerCenterOfRotationY": 120
+    }
+  }
+}

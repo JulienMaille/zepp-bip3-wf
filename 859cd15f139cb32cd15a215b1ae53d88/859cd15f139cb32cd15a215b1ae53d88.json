@@ -1,0 +1,99 @@
+{
+  "Info": {
+    "DeviceId": 71
+  },
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 2
+    },
+    "Preview": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    },
+    "PreviewTradChinese": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    },
+    "PreviewChinese": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    }
+  },
+  "Activity": {
+    "HeartRate": {
+      "ImageNumber": {
+        "TopLeftX": 105,
+        "TopLeftY": 180,
+        "BottomRightX": 135,
+        "BottomRightY": 194,
+        "Alignment": "TopCenter",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 24,
+        "ImagesCount": 10
+      },
+      "NoDataImageIndex": 34
+    },
+    "UnknownLongValue7": 0
+  },
+  "DateBlock": {
+    "Date": {
+      "PaddingZeroMonth": true,
+      "PaddingZeroDay": true,
+      "UnknownBoolean6": false
+    },
+    "Weekday": {
+      "X": 97,
+      "Y": 62,
+      "ImageIndex": 3,
+      "ImagesCount": 7
+    },
+    "WeekdayChinese": {
+      "X": 97,
+      "Y": 62,
+      "ImageIndex": 17,
+      "ImagesCount": 7
+    },
+    "WeekdayTradChinese": {
+      "X": 97,
+      "Y": 62,
+      "ImageIndex": 10,
+      "ImagesCount": 7
+    }
+  },
+  "HeartProgress": {
+    "Scale": {
+      "PointerScale": {
+        "CenterX": 120,
+        "CenterY": 194,
+        "RangeFrom": -130,
+        "RangeTo": 130,
+        "PointerImageIndex": 35,
+        "PointerCenterOfRotationY": 34
+      }
+    }
+  },
+  "TimeAnalog": {
+    "CommonCenterCoordinates": {
+      "X": 120,
+      "Y": 140
+    },
+    "Hours": {
+      "ImageIndex": 36,
+      "PointerCenterOfRotationY": 120
+    },
+    "Minutes": {
+      "ImageIndex": 38,
+      "PointerCenterOfRotationY": 120
+    },
+    "Seconds": {
+      "ImageIndex": 37,
+      "PointerCenterOfRotationY": 120
+    }
+  }
+}

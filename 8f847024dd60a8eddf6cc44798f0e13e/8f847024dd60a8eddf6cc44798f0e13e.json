@@ -1,0 +1,207 @@
+{
+  "Info": {
+    "DeviceId": 71
+  },
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 3
+    },
+    "Preview": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    },
+    "PreviewTradChinese": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 2
+    },
+    "PreviewChinese": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    }
+  },
+  "TimeExtended": {
+    "TimeSeparateDigits": {
+      "Hours": {
+        "Tens": {
+          "X": 35,
+          "Y": 116,
+          "ImageIndex": 4,
+          "ImagesCount": 10
+        },
+        "Ones": {
+          "X": 71,
+          "Y": 116,
+          "ImageIndex": 4,
+          "ImagesCount": 10
+        }
+      },
+      "Minutes": {
+        "Tens": {
+          "X": 132,
+          "Y": 116,
+          "ImageIndex": 4,
+          "ImagesCount": 10
+        },
+        "Ones": {
+          "X": 168,
+          "Y": 116,
+          "ImageIndex": 4,
+          "ImagesCount": 10
+        }
+      },
+      "SeparatorHours": {
+        "X": 112,
+        "Y": 120,
+        "ImageIndex": 14
+      },
+      "PaddingZeroHours": false,
+      "PaddingZeroMinutes": true
+    }
+  },
+  "Activity": {
+    "Steps": {
+      "ImageNumber": {
+        "TopLeftX": 140,
+        "TopLeftY": 222,
+        "BottomRightX": 181,
+        "BottomRightY": 234,
+        "Alignment": "TopRight",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 51,
+        "ImagesCount": 10
+      }
+    },
+    "Calories": {
+      "ImageNumber": {
+        "TopLeftX": 111,
+        "TopLeftY": 69,
+        "BottomRightX": 137,
+        "BottomRightY": 85,
+        "Alignment": "TopLeft",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 61,
+        "ImagesCount": 10
+      }
+    },
+    "HeartRate": {
+      "ImageNumber": {
+        "TopLeftX": 91,
+        "TopLeftY": 182,
+        "BottomRightX": 104,
+        "BottomRightY": 197,
+        "Alignment": "TopLeft",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 71,
+        "ImagesCount": 10
+      },
+      "NoDataImageIndex": 81
+    },
+    "Distance": {
+      "ImageNumber": {
+        "TopLeftX": 148,
+        "TopLeftY": 248,
+        "BottomRightX": 178,
+        "BottomRightY": 261,
+        "Alignment": "TopRight",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 51,
+        "ImagesCount": 10
+      },
+      "DecimalPointImageIndex": 82
+    },
+    "UnknownLongValue7": 0,
+    "StandUp": {
+      "ImageNumber": {
+        "TopLeftX": 161,
+        "TopLeftY": 195,
+        "BottomRightX": 181,
+        "BottomRightY": 208,
+        "Alignment": "TopRight",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 51,
+        "ImagesCount": 10
+      }
+    }
+  },
+  "DateBlock": {
+    "Date": {
+      "OneLineMonthAndDay": {
+        "Number": {
+          "TopLeftX": 35,
+          "TopLeftY": 32,
+          "BottomRightX": 85,
+          "BottomRightY": 44,
+          "Alignment": "TopLeft",
+          "Spacing": 0,
+          "VerticalOffset": 0,
+          "ImageIndex": 15,
+          "ImagesCount": 10
+        },
+        "DelimiterImageIndex": 25
+      },
+      "PaddingZeroMonth": true,
+      "PaddingZeroDay": true,
+      "UnknownBoolean6": false
+    },
+    "AmPm": {
+      "CommonX": 45,
+      "CommonY": 93,
+      "ImageIndexAMCN": 47,
+      "ImageIndexPMCN": 48,
+      "AmImageIndexEN": 49,
+      "PmImageIndexEN": 50
+    },
+    "Weekday": {
+      "X": 34,
+      "Y": 51,
+      "ImageIndex": 26,
+      "ImagesCount": 7
+    },
+    "WeekdayChinese": {
+      "X": 34,
+      "Y": 51,
+      "ImageIndex": 40,
+      "ImagesCount": 7
+    },
+    "WeekdayTradChinese": {
+      "X": 34,
+      "Y": 51,
+      "ImageIndex": 33,
+      "ImagesCount": 7
+    }
+  },
+  "Battery": {
+    "ImageProgress": {
+      "X": 34,
+      "Y": 14,
+      "ImageIndex": 89,
+      "ImagesCount": 9
+    }
+  },
+  "HeartProgress": {
+    "ImageProgress": {
+      "X": 30,
+      "Y": 182,
+      "ImageIndex": 83,
+      "ImagesCount": 6
+    }
+  },
+  "CaloriesProgress": {
+    "ImageProgress": {
+      "X": 135,
+      "Y": 24,
+      "ImageIndex": 98,
+      "ImagesCount": 5
+    }
+  }
+}

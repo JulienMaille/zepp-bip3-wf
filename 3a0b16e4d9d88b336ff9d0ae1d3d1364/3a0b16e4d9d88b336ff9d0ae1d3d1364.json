@@ -1,0 +1,96 @@
+{
+  "Info": {
+    "DeviceId": 71
+  },
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    },
+    "Preview": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    }
+  },
+  "Activity": {
+    "HeartRate": {
+      "ImageNumber": {
+        "TopLeftX": 108,
+        "TopLeftY": 220,
+        "BottomRightX": 132,
+        "BottomRightY": 232,
+        "Alignment": "TopCenter",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 2,
+        "ImagesCount": 10
+      },
+      "NoDataImageIndex": 12
+    },
+    "PAI": {
+      "ImageNumber": {
+        "TopLeftX": 108,
+        "TopLeftY": 103,
+        "BottomRightX": 132,
+        "BottomRightY": 115,
+        "Alignment": "TopCenter",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 2,
+        "ImagesCount": 10
+      }
+    },
+    "UnknownLongValue7": 0
+  },
+  "DateBlock": {
+    "Date": {
+      "PaddingZeroMonth": true,
+      "PaddingZeroDay": true,
+      "UnknownBoolean6": false
+    }
+  },
+  "HeartProgress": {
+    "Scale": {
+      "PointerScale": {
+        "CenterX": 120,
+        "CenterY": 203,
+        "RangeFrom": 0,
+        "RangeTo": 360,
+        "PointerImageIndex": 13,
+        "PointerCenterOfRotationY": 48
+      }
+    }
+  },
+  "TimeAnalog": {
+    "CommonCenterCoordinates": {
+      "X": 120,
+      "Y": 140
+    },
+    "Hours": {
+      "ImageIndex": 14,
+      "PointerCenterOfRotationY": 120
+    },
+    "Minutes": {
+      "ImageIndex": 16,
+      "PointerCenterOfRotationY": 120
+    },
+    "Seconds": {
+      "ImageIndex": 15,
+      "PointerCenterOfRotationY": 120
+    }
+  },
+  "PaiProgress": {
+    "Alt1PointerScale": {
+      "PointerScale": {
+        "CenterX": 120,
+        "CenterY": 84,
+        "RangeFrom": 0,
+        "RangeTo": 360,
+        "PointerImageIndex": 17,
+        "PointerCenterOfRotationY": 48
+      }
+    }
+  }
+}

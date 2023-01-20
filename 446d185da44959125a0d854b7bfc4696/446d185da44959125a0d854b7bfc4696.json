@@ -1,0 +1,218 @@
+{
+  "Info": {
+    "DeviceId": 71
+  },
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    },
+    "Preview": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    }
+  },
+  "TimeExtended": {
+    "TimeSeparateDigits": {
+      "Hours": {
+        "Tens": {
+          "X": 12,
+          "Y": 44,
+          "ImageIndex": 2,
+          "ImagesCount": 10
+        },
+        "Ones": {
+          "X": 58,
+          "Y": 44,
+          "ImageIndex": 2,
+          "ImagesCount": 10
+        }
+      },
+      "Minutes": {
+        "Tens": {
+          "X": 136,
+          "Y": 44,
+          "ImageIndex": 2,
+          "ImagesCount": 10
+        },
+        "Ones": {
+          "X": 182,
+          "Y": 44,
+          "ImageIndex": 2,
+          "ImagesCount": 10
+        }
+      },
+      "SeparatorHours": {
+        "X": 104,
+        "Y": 44,
+        "ImageIndex": 12
+      },
+      "PaddingZeroHours": false,
+      "PaddingZeroMinutes": true
+    }
+  },
+  "Activity": {
+    "Steps": {
+      "ImageNumber": {
+        "TopLeftX": 87,
+        "TopLeftY": 124,
+        "BottomRightX": 147,
+        "BottomRightY": 140,
+        "Alignment": "CenterLeft",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 13,
+        "ImagesCount": 10
+      }
+    },
+    "Calories": {
+      "ImageNumber": {
+        "TopLeftX": 87,
+        "TopLeftY": 193,
+        "BottomRightX": 135,
+        "BottomRightY": 209,
+        "Alignment": "CenterLeft",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 13,
+        "ImagesCount": 10
+      }
+    },
+    "UnknownLongValue7": 0,
+    "StandUp": {
+      "ImageNumber": {
+        "TopLeftX": 87,
+        "TopLeftY": 159,
+        "BottomRightX": 147,
+        "BottomRightY": 175,
+        "Alignment": "CenterLeft",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 13,
+        "ImagesCount": 10
+      }
+    }
+  },
+  "DateBlock": {
+    "Date": {
+      "YearMonthAndDay": {
+        "Day": {
+          "TopLeftX": 191,
+          "TopLeftY": 240,
+          "BottomRightX": 219,
+          "BottomRightY": 256,
+          "Alignment": "TopLeft",
+          "Spacing": 0,
+          "VerticalOffset": 0,
+          "ImageIndex": 13,
+          "ImagesCount": 10
+        },
+        "MonthFollowsYear": false,
+        "DayFollowsMonth": false
+      },
+      "PaddingZeroMonth": true,
+      "PaddingZeroDay": true,
+      "UnknownBoolean6": false
+    },
+    "AmPm": {
+      "CommonX": 163,
+      "CommonY": 7,
+      "AmImageIndexEN": 30,
+      "PmImageIndexEN": 31
+    },
+    "Weekday": {
+      "X": 141,
+      "Y": 240,
+      "ImageIndex": 23,
+      "ImagesCount": 7
+    }
+  },
+  "Weather": {
+    "Icon": {
+      "Images": {
+        "X": 39,
+        "Y": 234,
+        "ImageIndex": 32,
+        "ImagesCount": 26
+      }
+    },
+    "Temperature": {
+      "Current": {
+        "ImageNumber": {
+          "TopLeftX": 69,
+          "TopLeftY": 240,
+          "BottomRightX": 113,
+          "BottomRightY": 256,
+          "Alignment": "CenterLeft",
+          "Spacing": 0,
+          "VerticalOffset": 0,
+          "ImageIndex": 58,
+          "ImagesCount": 10
+        },
+        "MinusImageIndex": 68,
+        "SuffixImageIndexC": 69,
+        "NoDataImageIndex": 70
+      }
+    }
+  },
+  "StepProgress": {
+    "ImageProgress": {
+      "X": 144,
+      "Y": 125,
+      "ImageIndex": 71,
+      "ImagesCount": 12
+    }
+  },
+  "Status": {
+    "DoNotDisturb": {
+      "Coordinates": {
+        "X": 129,
+        "Y": 7
+      },
+      "ImageIndexOn": 85,
+      "ImageIndexOff": 86
+    },
+    "Lock": {
+      "Coordinates": {
+        "X": 27,
+        "Y": 7
+      },
+      "ImageIndexOn": 87,
+      "ImageIndexOff": 88
+    },
+    "Bluetooth": {
+      "Coordinates": {
+        "X": 61,
+        "Y": 7
+      },
+      "ImageIndexOn": 83,
+      "ImageIndexOff": 84
+    },
+    "Alarm": {
+      "Coordinates": {
+        "X": 95,
+        "Y": 7
+      },
+      "ImageIndexOn": 89,
+      "ImageIndexOff": 90
+    }
+  },
+  "CaloriesProgress": {
+    "ImageProgress": {
+      "X": 141,
+      "Y": 193,
+      "ImageIndex": 71,
+      "ImagesCount": 12
+    }
+  },
+  "StandUpProgress": {
+    "ImageProgress": {
+      "X": 144,
+      "Y": 159,
+      "ImageIndex": 71,
+      "ImagesCount": 12
+    }
+  }
+}

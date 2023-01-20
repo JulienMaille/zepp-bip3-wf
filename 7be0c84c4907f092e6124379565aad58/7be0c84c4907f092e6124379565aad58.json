@@ -1,0 +1,137 @@
+{
+  "Info": {
+    "DeviceId": 71
+  },
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 2
+    },
+    "Preview": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    },
+    "PreviewTradChinese": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    },
+    "PreviewChinese": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    }
+  },
+  "Activity": {
+    "HeartRate": {
+      "ImageNumber": {
+        "TopLeftX": 55,
+        "TopLeftY": 241,
+        "BottomRightX": 97,
+        "BottomRightY": 271,
+        "Alignment": "TopLeft",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 28,
+        "ImagesCount": 10
+      },
+      "NoDataImageIndex": 38,
+      "Icon": {
+        "X": 29,
+        "Y": 245,
+        "ImageIndex": 39
+      }
+    },
+    "UnknownLongValue7": 0
+  },
+  "DateBlock": {
+    "Date": {
+      "OneLineMonthAndDay": {
+        "Number": {
+          "TopLeftX": 129,
+          "TopLeftY": 10,
+          "BottomRightX": 199,
+          "BottomRightY": 40,
+          "Alignment": "TopLeft",
+          "Spacing": 0,
+          "VerticalOffset": 0,
+          "ImageIndex": 3,
+          "ImagesCount": 10
+        },
+        "DelimiterImageIndex": 13
+      },
+      "PaddingZeroMonth": true,
+      "PaddingZeroDay": true,
+      "UnknownBoolean6": false
+    },
+    "Weekday": {
+      "X": 41,
+      "Y": 8,
+      "ImageIndex": 14,
+      "ImagesCount": 7
+    },
+    "WeekdayChinese": {
+      "X": 41,
+      "Y": 8,
+      "ImageIndex": 21,
+      "ImagesCount": 7
+    },
+    "WeekdayTradChinese": {
+      "X": 41,
+      "Y": 8,
+      "ImageIndex": 21,
+      "ImagesCount": 7
+    }
+  },
+  "Weather": {
+    "Icon": {
+      "Images": {
+        "X": 107,
+        "Y": 245,
+        "ImageIndex": 40,
+        "ImagesCount": 26
+      }
+    },
+    "Temperature": {
+      "OneLine": {
+        "OneLineMinMax": {
+          "Number": {
+            "TopLeftX": 133,
+            "TopLeftY": 241,
+            "BottomRightX": 232,
+            "BottomRightY": 271,
+            "Alignment": "TopLeft",
+            "Spacing": 0,
+            "VerticalOffset": 0,
+            "ImageIndex": 28,
+            "ImagesCount": 10
+          },
+          "MinusImageIndex": 67,
+          "DelimiterImageIndex": 68,
+          "UnknownLong4": 0,
+          "DegreesImageIndex": 66
+        }
+      }
+    }
+  },
+  "TimeAnalog": {
+    "CommonCenterCoordinates": {
+      "X": 120,
+      "Y": 140
+    },
+    "Hours": {
+      "ImageIndex": 69,
+      "PointerCenterOfRotationY": 120
+    },
+    "Minutes": {
+      "ImageIndex": 71,
+      "PointerCenterOfRotationY": 120
+    },
+    "Seconds": {
+      "ImageIndex": 70,
+      "PointerCenterOfRotationY": 120
+    }
+  }
+}

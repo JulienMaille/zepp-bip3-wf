@@ -1,0 +1,128 @@
+{
+  "Info": {
+    "DeviceId": 71
+  },
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    },
+    "Preview": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    }
+  },
+  "TimeExtended": {
+    "TimeSeparateDigits": {
+      "Hours": {
+        "Tens": {
+          "X": 78,
+          "Y": 80,
+          "ImageIndex": 2,
+          "ImagesCount": 10
+        },
+        "Ones": {
+          "X": 120,
+          "Y": 80,
+          "ImageIndex": 2,
+          "ImagesCount": 10
+        }
+      },
+      "Minutes": {
+        "Tens": {
+          "X": 78,
+          "Y": 142,
+          "ImageIndex": 12,
+          "ImagesCount": 10
+        },
+        "Ones": {
+          "X": 120,
+          "Y": 142,
+          "ImageIndex": 12,
+          "ImagesCount": 10
+        }
+      },
+      "PaddingZeroHours": false,
+      "PaddingZeroMinutes": true
+    }
+  },
+  "Activity": {
+    "HeartRate": {
+      "ImageNumber": {
+        "TopLeftX": 80,
+        "TopLeftY": 262,
+        "BottomRightX": 136,
+        "BottomRightY": 278,
+        "Alignment": "CenterLeft",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 39,
+        "ImagesCount": 10
+      },
+      "PrefixImageIndex": 49,
+      "NoDataImageIndex": 50
+    },
+    "UnknownLongValue7": 0
+  },
+  "DateBlock": {
+    "Date": {
+      "YearMonthAndDay": {
+        "Day": {
+          "TopLeftX": 140,
+          "TopLeftY": 51,
+          "BottomRightX": 172,
+          "BottomRightY": 77,
+          "Alignment": "TopLeft",
+          "Spacing": 0,
+          "VerticalOffset": 0,
+          "ImageIndex": 22,
+          "ImagesCount": 10
+        },
+        "MonthFollowsYear": false,
+        "DayFollowsMonth": false
+      },
+      "PaddingZeroMonth": true,
+      "PaddingZeroDay": true,
+      "UnknownBoolean6": false
+    },
+    "Weekday": {
+      "X": 65,
+      "Y": 51,
+      "ImageIndex": 32,
+      "ImagesCount": 7
+    }
+  },
+  "Battery": {
+    "BatteryText": {
+      "ImageNumber": {
+        "TopLeftX": 80,
+        "TopLeftY": 243,
+        "BottomRightX": 136,
+        "BottomRightY": 258,
+        "Alignment": "CenterLeft",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 39,
+        "ImagesCount": 10
+      },
+      "NoDataImageIndex": 62,
+      "SuffixImageIndex": 61
+    },
+    "ImageProgress": {
+      "X": 20,
+      "Y": 18,
+      "ImageIndex": 63,
+      "ImagesCount": 10
+    }
+  },
+  "HeartProgress": {
+    "ImageProgress": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 51,
+      "ImagesCount": 10
+    }
+  }
+}

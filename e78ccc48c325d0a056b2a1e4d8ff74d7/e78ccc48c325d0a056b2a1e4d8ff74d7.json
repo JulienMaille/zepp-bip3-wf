@@ -1,0 +1,184 @@
+{
+  "Info": {
+    "DeviceId": 71
+  },
+  "Background": {
+    "BackgroundColor": "0x0000000000000000",
+    "Preview": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    },
+    "PreviewTradChinese": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 2
+    },
+    "PreviewChinese": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    }
+  },
+  "TimeExtended": {
+    "TimeSeparateDigits": {
+      "Hours": {
+        "Tens": {
+          "X": 27,
+          "Y": 25,
+          "ImageIndex": 3,
+          "ImagesCount": 10
+        },
+        "Ones": {
+          "X": 42,
+          "Y": 25,
+          "ImageIndex": 3,
+          "ImagesCount": 10
+        }
+      },
+      "Minutes": {
+        "Tens": {
+          "X": 66,
+          "Y": 25,
+          "ImageIndex": 3,
+          "ImagesCount": 10
+        },
+        "Ones": {
+          "X": 81,
+          "Y": 25,
+          "ImageIndex": 3,
+          "ImagesCount": 10
+        }
+      },
+      "SeparatorHours": {
+        "X": 57,
+        "Y": 22,
+        "ImageIndex": 13
+      },
+      "PaddingZeroHours": false,
+      "PaddingZeroMinutes": true
+    }
+  },
+  "DateBlock": {
+    "Date": {
+      "YearMonthAndDay": {
+        "Day": {
+          "TopLeftX": 62,
+          "TopLeftY": 56,
+          "BottomRightX": 78,
+          "BottomRightY": 68,
+          "Alignment": "CenterLeft",
+          "Spacing": 0,
+          "VerticalOffset": 0,
+          "ImageIndex": 14,
+          "ImagesCount": 10
+        },
+        "MonthFollowsYear": false,
+        "DayFollowsMonth": false,
+        "MonthAsWord": {
+          "X": 27,
+          "Y": 56,
+          "ImageIndex": 24,
+          "ImagesCount": 12
+        },
+        "MonthAsWordChinese": {
+          "X": 27,
+          "Y": 56,
+          "ImageIndex": 36,
+          "ImagesCount": 12
+        }
+      },
+      "PaddingZeroMonth": true,
+      "PaddingZeroDay": true,
+      "UnknownBoolean6": false
+    },
+    "Weekday": {
+      "X": 84,
+      "Y": 56,
+      "ImageIndex": 48,
+      "ImagesCount": 7
+    },
+    "WeekdayChinese": {
+      "X": 84,
+      "Y": 56,
+      "ImageIndex": 62,
+      "ImagesCount": 7
+    },
+    "WeekdayTradChinese": {
+      "X": 84,
+      "Y": 56,
+      "ImageIndex": 55,
+      "ImagesCount": 7
+    }
+  },
+  "Weather": {
+    "Icon": {
+      "Images": {
+        "X": 56,
+        "Y": 94,
+        "ImageIndex": 69,
+        "ImagesCount": 26
+      }
+    },
+    "Temperature": {
+      "Current": {
+        "ImageNumber": {
+          "TopLeftX": 0,
+          "TopLeftY": 197,
+          "BottomRightX": 240,
+          "BottomRightY": 225,
+          "Alignment": "Center",
+          "Spacing": 0,
+          "VerticalOffset": 0,
+          "ImageIndex": 95,
+          "ImagesCount": 10
+        },
+        "MinusImageIndex": 105,
+        "SuffixImageIndexC": 106,
+        "NoDataImageIndex": 107
+      }
+    }
+  },
+  "Battery": {
+    "ImageProgress": {
+      "X": 185,
+      "Y": 27,
+      "ImageIndex": 108,
+      "ImagesCount": 10
+    }
+  },
+  "Shortcuts": {
+    "Shortcut": [
+      {
+        "Icon": {
+          "X": 27,
+          "Y": 225,
+          "ImageIndex": 118
+        },
+        "ShortcutType": "Unknown1",
+        "Element": {
+          "TopLeftX": 27,
+          "TopLeftY": 225,
+          "BottomRightX": 55,
+          "BottomRightY": 253,
+          "UnknownBoolean5": true
+        }
+      },
+      {
+        "Icon": {
+          "X": 185,
+          "Y": 225,
+          "ImageIndex": 119
+        },
+        "ShortcutType": "Music",
+        "Element": {
+          "TopLeftX": 185,
+          "TopLeftY": 225,
+          "BottomRightX": 213,
+          "BottomRightY": 253,
+          "UnknownBoolean5": true
+        }
+      }
+    ]
+  }
+}
