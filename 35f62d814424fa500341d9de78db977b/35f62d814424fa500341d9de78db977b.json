@@ -63,7 +63,7 @@
         "Y": 94,
         "ImageIndex": 22
       },
-      "PaddingZeroHours": false,
+      "UnknowBoolean7": false,
       "PaddingZeroMinutes": true
     }
   },

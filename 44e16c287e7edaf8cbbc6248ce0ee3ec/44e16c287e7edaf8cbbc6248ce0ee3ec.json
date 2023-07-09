@@ -58,7 +58,7 @@
           "ImagesCount": 10
         }
       },
-      "PaddingZeroHours": false,
+      "UnknowBoolean7": false,
       "PaddingZeroMinutes": true
     },
     "SunriseTimeOneLine": {
@@ -87,7 +87,7 @@
         "ImageIndex": 2,
         "ImagesCount": 10
       },
-      "NoDataImageIndex": 53
+      "SuffixImageIndex": 53
     },
     "Calories": {
       "ImageNumber": {

@@ -55,7 +55,7 @@
         "Y": 22,
         "ImageIndex": 13
       },
-      "PaddingZeroHours": false,
+      "UnknowBoolean7": false,
       "PaddingZeroMinutes": true
     }
   },
@@ -155,7 +155,7 @@
           "Y": 225,
           "ImageIndex": 118
         },
-        "ShortcutType": "Unknown1",
+        "ShortcutType": "ShortcutType1",
         "Element": {
           "TopLeftX": 27,
           "TopLeftY": 225,

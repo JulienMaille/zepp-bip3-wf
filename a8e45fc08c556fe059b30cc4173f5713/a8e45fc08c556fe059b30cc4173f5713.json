@@ -96,7 +96,7 @@
         "ImageIndex": 45,
         "ImagesCount": 10
       },
-      "UnknownImageIndex": 44
+      "NoDataImageIndex": 44
     }
   },
   "StepProgress": {

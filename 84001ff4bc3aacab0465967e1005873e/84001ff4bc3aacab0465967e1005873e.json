@@ -44,7 +44,7 @@
           "ImagesCount": 10
         }
       },
-      "PaddingZeroHours": false,
+      "UnknowBoolean7": false,
       "PaddingZeroMinutes": true
     }
   },
@@ -107,7 +107,7 @@
         "ImageIndex": 39,
         "ImagesCount": 10
       },
-      "NoDataImageIndex": 62,
+      "PrefixImageIndex": 62,
       "SuffixImageIndex": 61
     },
     "ImageProgress": {

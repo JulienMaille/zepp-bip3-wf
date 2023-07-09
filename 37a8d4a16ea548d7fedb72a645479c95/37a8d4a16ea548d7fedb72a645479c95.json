@@ -63,7 +63,7 @@
         "Y": 123,
         "ImageIndex": 22
       },
-      "PaddingZeroHours": false,
+      "UnknowBoolean7": false,
       "PaddingZeroMinutes": true
     }
   },
@@ -80,7 +80,7 @@
         "ImageIndex": 32,
         "ImagesCount": 10
       },
-      "SuffixImageIndex": 42
+      "DelimiterTotalImageIndex": 42
     },
     "Calories": {
       "ImageNumber": {

@@ -59,7 +59,7 @@
         "Y": 61,
         "ImageIndex": 14
       },
-      "PaddingZeroHours": false,
+      "UnknowBoolean7": false,
       "PaddingZeroMinutes": true
     }
   },
@@ -202,7 +202,7 @@
         "ImageIndex": 15,
         "ImagesCount": 10
       },
-      "NoDataImageIndex": 132,
+      "PrefixImageIndex": 132,
       "SuffixImageIndex": 131
     }
   },
